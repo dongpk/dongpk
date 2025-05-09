@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <!--
-**dongpk/dongpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tranhaidong/TranHaiDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Dong. You might recognize me as hdonq.
+
+
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|  Java         |
+|     2|      Flutter  |
+|     3|          SQL  |
