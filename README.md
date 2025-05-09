@@ -1,26 +1,7 @@
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/envidii](https://www.facebook.com/h.donq)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/envidii](https://www.instagram.com/_haidonq55/))
 
-<!--
-**tranhaidong/TranHaiDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi, I'm Dong. You might recognize me as hdonq.
-
-
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|  Unity         |
-|     2|      Java  |
-|     3|          SQL  |
